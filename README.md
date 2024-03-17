@@ -4,7 +4,7 @@ A shell script which performs API testing of the site [reqres.in](https://reqres
 
 ## Installation
 
-Download the package from [Github](https://github.com/rathorsunpreet/playwrightTest) and unzip it.
+Download the package from [Github](https://github.com/rathorsunpreet/Bash_API_Checks) and unzip it.
 
 ## Usage
 

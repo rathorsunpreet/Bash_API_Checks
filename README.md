@@ -2,6 +2,8 @@
 
 A shell script which performs API testing of the site [reqres.in](https://reqres.in/).
 
+Demo: https://www.youtube.com/watch?v=ALcGYkD7VP4
+
 ## Installation
 
 Download the package from [Github](https://github.com/rathorsunpreet/Bash_API_Checks) and unzip it.

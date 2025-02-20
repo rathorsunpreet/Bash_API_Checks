@@ -63,7 +63,7 @@ do
   do
     if [[ "$i" == "$j" ]]
     then
-      func="$i"_func
+      func="$j"_func
       $func
     fi
   done

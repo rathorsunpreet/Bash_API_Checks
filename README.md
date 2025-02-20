@@ -13,9 +13,11 @@ Download the package from [Github](https://github.com/rathorsunpreet/Bash_API_Ch
 ```console
 # Give execute permissions
 chmod +x check.sh
+chmod +x /api/*
+chmod +x /libs/*
 
 # To execute the tests
-./check.sh <args>
+./check.sh <args-1> <args-2> .... <args-n>
 ```
 where args can be:
 

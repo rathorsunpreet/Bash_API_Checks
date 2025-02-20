@@ -3,6 +3,7 @@
 A shell script which performs API testing of the site [reqres.in](https://reqres.in/).
 
 Demo: https://www.youtube.com/watch?v=ALcGYkD7VP4
+Update: https://www.youtube.com/watch?v=ZVALKUvCgM4
 
 ## Installation
 
